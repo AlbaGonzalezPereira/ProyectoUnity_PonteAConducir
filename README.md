@@ -19,7 +19,7 @@ Desarrollar un videojuego funcional en Unity que demuestre las habilidades adqui
   - Movimiento de la ambulancia: el jugador es el que la maneja a través del circuito con la finalidad de conseguir los objetivos propuestos, sin atropellar a ninguna de las personas que circulan.
 
 - **Implementación de interacción entre elementos**: 
-  - colisiones con árboles y lago que no permiten proseguir (bloquean el paso). 
+  - colisiones con árboles, builds y lago que no permiten proseguir (bloquean el paso). 
   - conos, que se pueden arrastrar. 
   - colisión con las personas, que acaban muertas y con ellas el fin del juego.
   - triggers:
@@ -51,3 +51,10 @@ Desarrollar un videojuego funcional en Unity que demuestre las habilidades adqui
 - **Sonido y Música**:
   - Música de fondo sin copyright: durante el juego, ruido del motor, al pasar por el césped.
   - Efectos de sonido: al chocar con una persona.
+
+## Bibliografía
+- Assets: biblioteca Unity, biblioteca de itch.io
+- Sonidos: OpenGameArt
+
+## Recursos empleados para hacer la tarea:
+- vídeos del canal de youtube Kanarian dev
